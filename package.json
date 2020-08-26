@@ -27,7 +27,7 @@
     "q": "^1.4.1"
   },
   "devDependencies": {
-    "mocha": "2.3.4",
+    "mocha": "8.1.2",
     "jshint": ">=2.6.3",
     "gitbook-tester": "1.2.0"
   },
